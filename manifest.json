@@ -1,0 +1,25 @@
+{
+  "name": "MegaJet OS Pro",
+  "short_name": "MegaJet",
+  "description": "Industrial Diagnostic Matrix for MegaJet & Grasselli Systems",
+  "start_url": "/https://brettae406.github.io/Megajetpro/",
+  "scope": "/MegajetPro/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "1000025238.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "1000025238.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
